@@ -83,7 +83,7 @@ var library = {
 			minutes = 0;
 			hours = 0;
 			if (seconds < 60) {
-				document.getElementById("timer").innerHTML = "Time Visited: " + seconds;
+				document.getElementById("timer").innerHTML = "Time Visited: " + seconds +  " seconds";
 			} else if (seconds >= 60 && seconds < 3600) {
 				for (i = 0; i < 60; i++) {
 					if (seconds >= 60) {
