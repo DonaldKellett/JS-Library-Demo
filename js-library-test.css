@@ -1,0 +1,16 @@
+code {
+	font-family: monospace;
+	background-color: #e3e9dc;
+	padding: 5px;
+	border-radius: 5px;
+}
+code pre {
+	font-family: monospace;
+	background-color: #e3e9dc;
+	padding: 5px;
+	border-radius: 5px;
+}
+.preformatted {
+	background-color: #fff;
+	display: block;
+}
